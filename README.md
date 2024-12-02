@@ -1,1 +1,1 @@
-# advent-of-css-2024
+# advent-of-frontend-2024
